@@ -33,7 +33,7 @@ jobs:
         run: chmod +x gradlew
 
 #      - name: Build with Gradle
-#        run: ./gradlew clean build -s
+#        run: ./gradlew clean build -s 1
 
       # 第一次构建
       - name: build
